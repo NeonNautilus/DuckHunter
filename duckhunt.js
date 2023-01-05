@@ -227,8 +227,6 @@ $(function() {
         ctx.textAlign = 'right';
         ctx.fillText('Score: ' + score, canvas.width * 3 / 4, canvas.height - ((padding / 2) * 2) - 20);
         ctx.fillText('Missed: ' + missed, canvas.width * 3 / 4, canvas.height - (padding / 2) - 10);
-        ctx.fillText('Speed: ' + speed, 150, 50);
-        ctx.fillText('Move: ' + currentMovementPattern, 150, 100);
     }
 
     // Shoot the gun
