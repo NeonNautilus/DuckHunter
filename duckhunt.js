@@ -30,7 +30,7 @@ $(function() {
       "start-game.png",
       "empty.mp3",
       "gunshot.mp3",
-      "duckQauck.mp3",
+      "duckQuack.mp3",
       "anotherQuack.mp3"
     ];
 
